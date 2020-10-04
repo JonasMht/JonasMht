@@ -1,8 +1,6 @@
 # Hi there, welcome to my GitHub ! 👋🔭
-<!-- GitHub stats -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonasMht&count_private=true&show_icons=true&theme=merko)
-<!-- Languages stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMht&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonasMht&count_private=true&show_icons=true&theme=merko)<!-- GitHub stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMht&layout=compact)<!-- Languages stats -->
 <!--
 **JonasMht/JonasMht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
