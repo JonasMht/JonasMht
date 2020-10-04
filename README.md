@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there, welcome to my GitHub ! 👋🔭
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonasMht&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMht&layout=compact)
 
 <!--
 **JonasMht/JonasMht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
