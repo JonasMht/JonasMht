@@ -1,4 +1,7 @@
 # Hi there, welcome to my GitHub ! 👋🔭
+
+- 📫 How to reach me: Jonas.mht.private@gmail.com
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonasMht&count_private=true&show_icons=true&theme=gruvbox)<!-- GitHub stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMht&layout=compact)<!-- Languages stats -->
 <div style="display:block;text-align:center"><img src="images/Q8i2.gif" /></div>
