@@ -1,6 +1,7 @@
-# Hi there, welcome to my GitHub ! 👋🔭
+# A warm welcome to you ! 👋😄
 
-- 📫 How to reach me: Jonas.mht.private@gmail.com
+- 📫 How to reach me: Jonas.mht.private@gmail.com.
+- 🔭 I’m currently working on __saving the world !__
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonasMht&count_private=true&show_icons=true&theme=gruvbox)<!-- GitHub stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMht&layout=compact)<!-- Languages stats -->
