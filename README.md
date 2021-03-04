@@ -1,7 +1,7 @@
 # A warm welcome to you ! 👋😄
 
 - 📫 How to reach me: Jonas.mht.private@gmail.com.
-- 🔭 I’m currently working on __? !__
+- 🔭 I’m currently working on __Sensha Wars__ !
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonasMht&count_private=true)<!-- GitHub stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMht&layout=compact)<!-- Languages stats -->
